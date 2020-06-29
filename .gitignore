@@ -1,0 +1,9 @@
+.idea
+chats
+*.iml
+
+*.pyc
+*.pdf
+*.jpg
+
+
